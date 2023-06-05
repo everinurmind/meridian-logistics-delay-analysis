@@ -1,0 +1,16 @@
+port_code,port_name,country,region
+SGSIN,Singapore,Singapore,SEA
+MYPKG,Port Klang,Malaysia,SEA
+THBKK,Bangkok (Laem Chabang),Thailand,SEA
+VNSGN,Ho Chi Minh City,Vietnam,SEA
+VNHAN,Hanoi (Hai Phong),Vietnam,SEA
+IDJKT,Jakarta (Tanjung Priok),Indonesia,SEA
+IDSBY,Surabaya,Indonesia,SEA
+PHMNL,Manila,Philippines,SEA
+MMRGN,Yangon,Myanmar,SEA
+KHPNH,Phnom Penh (Sihanoukville),Cambodia,SEA
+CNSHA,Shanghai,China,East Asia
+CNSHE,Shenzhen,China,East Asia
+HKHKG,Hong Kong,Hong Kong,East Asia
+JPYOK,Yokohama,Japan,East Asia
+KRPUS,Busan,South Korea,East Asia
