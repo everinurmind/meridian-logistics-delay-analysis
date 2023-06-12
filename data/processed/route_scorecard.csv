@@ -1,0 +1,211 @@
+route,volume,otd_rate,avg_delay,avg_cost,avg_transit
+Yokohama → Hanoi (Hai Phong),34,20.6,3.2,3183.45,11.7
+Ho Chi Minh City → Shenzhen,26,26.9,3.0,2685.89,11.3
+Port Klang → Busan,39,28.2,2.5,3716.51,10.8
+Phnom Penh (Sihanoukville) → Shenzhen,34,29.4,2.8,2955.28,11.1
+Phnom Penh (Sihanoukville) → Ho Chi Minh City,37,29.7,3.0,2599.33,6.4
+Ho Chi Minh City → Bangkok (Laem Chabang),32,31.2,2.2,3238.21,6.1
+Yangon → Jakarta (Tanjung Priok),50,32.0,2.6,4019.82,6.0
+Jakarta (Tanjung Priok) → Manila,37,32.4,2.4,2827.47,5.9
+Phnom Penh (Sihanoukville) → Jakarta (Tanjung Priok),46,32.6,2.2,4670.0,5.2
+Phnom Penh (Sihanoukville) → Port Klang,43,32.6,2.2,3450.32,5.3
+Hanoi (Hai Phong) → Manila,27,33.3,2.7,3373.35,6.3
+Port Klang → Shenzhen,38,34.2,2.6,3589.08,11.1
+Jakarta (Tanjung Priok) → Yangon,29,34.5,2.6,3447.02,5.9
+Jakarta (Tanjung Priok) → Ho Chi Minh City,46,34.8,2.3,3522.61,5.7
+Bangkok (Laem Chabang) → Hong Kong,43,34.9,1.6,3419.57,10.1
+Hanoi (Hai Phong) → Port Klang,40,35.0,2.6,3387.68,6.2
+Phnom Penh (Sihanoukville) → Bangkok (Laem Chabang),37,35.1,2.2,3506.64,5.4
+Busan → Singapore,37,35.1,2.9,2784.35,11.0
+Hanoi (Hai Phong) → Yokohama,37,35.1,2.0,4382.36,8.6
+Surabaya → Yokohama,42,35.7,2.8,3255.45,10.8
+Ho Chi Minh City → Singapore,50,36.0,2.5,3639.35,6.0
+Hong Kong → Shanghai,47,36.2,2.7,2798.05,8.7
+Shanghai → Hanoi (Hai Phong),33,36.4,2.5,3453.01,10.1
+Singapore → Yangon,41,36.6,2.1,3071.35,5.4
+Singapore → Phnom Penh (Sihanoukville),41,36.6,2.5,3471.65,5.9
+Singapore → Hanoi (Hai Phong),30,36.7,1.6,3574.33,5.2
+Jakarta (Tanjung Priok) → Hong Kong,30,36.7,1.8,3406.73,8.1
+Shanghai → Busan,27,37.0,2.1,3112.5,7.9
+Ho Chi Minh City → Busan,35,37.1,2.2,4261.36,10.2
+Bangkok (Laem Chabang) → Busan,35,37.1,2.5,3049.05,10.9
+Singapore → Busan,43,37.2,2.4,2900.02,10.7
+Phnom Penh (Sihanoukville) → Hong Kong,51,37.3,2.5,3699.83,10.7
+Busan → Surabaya,32,37.5,2.1,3399.59,10.4
+Shenzhen → Ho Chi Minh City,37,37.8,2.0,3575.74,9.5
+Surabaya → Port Klang,45,37.8,2.2,3673.97,5.7
+Shenzhen → Hong Kong,45,37.8,2.7,3452.27,7.9
+Shenzhen → Port Klang,29,37.9,1.9,3801.3,10.5
+Manila → Singapore,42,38.1,1.7,3936.75,5.4
+Shanghai → Port Klang,47,38.3,2.7,3243.4,11.5
+Hanoi (Hai Phong) → Ho Chi Minh City,39,38.5,2.1,3771.75,5.4
+Singapore → Bangkok (Laem Chabang),36,38.9,2.3,3531.46,5.5
+Shenzhen → Hanoi (Hai Phong),36,38.9,2.3,4396.81,10.9
+Surabaya → Hanoi (Hai Phong),41,39.0,2.0,3541.85,5.4
+Ho Chi Minh City → Jakarta (Tanjung Priok),41,39.0,2.4,4061.91,5.4
+Ho Chi Minh City → Manila,23,39.1,2.5,3314.57,6.0
+Phnom Penh (Sihanoukville) → Hanoi (Hai Phong),33,39.4,2.3,2947.65,6.0
+Hanoi (Hai Phong) → Yangon,43,39.5,2.3,3501.52,6.1
+Surabaya → Hong Kong,43,39.5,2.1,3460.68,9.6
+Bangkok (Laem Chabang) → Hanoi (Hai Phong),35,40.0,2.2,3132.06,5.6
+Hanoi (Hai Phong) → Shanghai,35,40.0,2.0,3870.66,9.3
+Busan → Port Klang,35,40.0,2.2,3642.55,10.1
+Jakarta (Tanjung Priok) → Hanoi (Hai Phong),35,40.0,2.7,3304.25,5.9
+Manila → Busan,40,40.0,2.0,3518.17,10.0
+Yokohama → Yangon,40,40.0,1.9,3376.42,10.1
+Yangon → Manila,35,40.0,2.0,3690.95,5.7
+Busan → Shanghai,40,40.0,2.2,2858.54,7.5
+Shenzhen → Shanghai,35,40.0,2.7,3176.62,8.5
+Bangkok (Laem Chabang) → Yokohama,37,40.5,2.3,2927.48,10.4
+Hanoi (Hai Phong) → Phnom Penh (Sihanoukville),37,40.5,1.8,2602.89,5.5
+Yangon → Bangkok (Laem Chabang),37,40.5,2.0,3263.36,5.6
+Busan → Ho Chi Minh City,37,40.5,1.9,2999.67,10.5
+Port Klang → Shanghai,32,40.6,1.5,3394.07,9.8
+Jakarta (Tanjung Priok) → Bangkok (Laem Chabang),27,40.7,2.5,4683.91,6.1
+Shenzhen → Yangon,44,40.9,2.1,4146.2,8.9
+Yokohama → Phnom Penh (Sihanoukville),39,41.0,2.2,3540.29,9.7
+Yokohama → Bangkok (Laem Chabang),39,41.0,2.1,4693.1,9.9
+Bangkok (Laem Chabang) → Ho Chi Minh City,39,41.0,2.4,3090.95,5.5
+Jakarta (Tanjung Priok) → Port Klang,34,41.2,1.8,4094.76,5.1
+Port Klang → Phnom Penh (Sihanoukville),46,41.3,1.8,4138.61,5.7
+Busan → Hanoi (Hai Phong),46,41.3,2.0,2841.32,11.3
+Yangon → Port Klang,41,41.5,2.5,3951.19,5.7
+Shenzhen → Manila,31,41.9,2.5,3830.9,9.4
+Hanoi (Hai Phong) → Surabaya,43,41.9,2.2,3146.35,5.7
+Jakarta (Tanjung Priok) → Busan,45,42.2,2.0,4056.43,9.9
+Hong Kong → Port Klang,40,42.5,2.7,3496.25,10.2
+Port Klang → Manila,49,42.9,2.1,4718.76,5.7
+Singapore → Port Klang,35,42.9,2.1,3210.0,6.1
+Surabaya → Shanghai,35,42.9,1.9,3806.94,11.1
+Bangkok (Laem Chabang) → Shanghai,42,42.9,1.9,3981.41,9.0
+Ho Chi Minh City → Shanghai,42,42.9,1.5,3210.47,9.8
+Bangkok (Laem Chabang) → Phnom Penh (Sihanoukville),44,43.2,2.2,3502.39,5.8
+Surabaya → Shenzhen,44,43.2,2.0,3932.25,11.1
+Shenzhen → Jakarta (Tanjung Priok),37,43.2,2.4,3059.63,11.1
+Shanghai → Manila,37,43.2,1.9,3313.04,9.5
+Manila → Hanoi (Hai Phong),37,43.2,2.2,3714.03,5.1
+Bangkok (Laem Chabang) → Yangon,32,43.8,2.0,4309.04,4.6
+Phnom Penh (Sihanoukville) → Singapore,41,43.9,2.0,2822.73,5.4
+Jakarta (Tanjung Priok) → Surabaya,41,43.9,1.8,3684.19,5.8
+Manila → Yangon,41,43.9,1.9,3324.86,5.5
+Hong Kong → Ho Chi Minh City,34,44.1,2.0,3669.84,9.9
+Ho Chi Minh City → Hanoi (Hai Phong),34,44.1,1.7,2798.25,5.1
+Manila → Yokohama,34,44.1,2.2,4368.45,9.1
+Ho Chi Minh City → Phnom Penh (Sihanoukville),43,44.2,2.1,3918.84,5.3
+Hanoi (Hai Phong) → Singapore,36,44.4,1.7,2901.75,5.2
+Phnom Penh (Sihanoukville) → Yokohama,47,44.7,1.9,3463.74,11.3
+Port Klang → Surabaya,38,44.7,2.2,3646.71,6.0
+Yangon → Ho Chi Minh City,38,44.7,1.8,3387.23,5.6
+Shenzhen → Surabaya,29,44.8,1.9,3182.04,10.2
+Yokohama → Port Klang,29,44.8,1.8,3430.52,10.7
+Hanoi (Hai Phong) → Hong Kong,49,44.9,2.0,3564.96,10.3
+Ho Chi Minh City → Port Klang,31,45.2,1.8,3162.64,5.2
+Yokohama → Manila,31,45.2,2.2,4284.98,9.8
+Phnom Penh (Sihanoukville) → Shanghai,31,45.2,1.9,3157.34,10.3
+Manila → Jakarta (Tanjung Priok),31,45.2,1.8,3635.8,5.0
+Busan → Yokohama,33,45.5,2.2,2846.1,8.5
+Port Klang → Hanoi (Hai Phong),33,45.5,2.1,3285.28,6.5
+Shanghai → Yokohama,46,45.7,1.6,2813.61,8.4
+Ho Chi Minh City → Yokohama,35,45.7,2.3,3621.94,9.7
+Shenzhen → Busan,28,46.4,2.5,2379.73,7.9
+Port Klang → Jakarta (Tanjung Priok),43,46.5,2.0,3988.68,5.0
+Manila → Phnom Penh (Sihanoukville),30,46.7,1.8,3742.43,5.6
+Hong Kong → Shenzhen,45,46.7,2.1,2298.33,8.2
+Yangon → Busan,45,46.7,2.1,3507.24,10.2
+Surabaya → Phnom Penh (Sihanoukville),47,46.8,1.9,3189.4,5.6
+Yokohama → Shanghai,49,46.9,1.9,3664.47,7.1
+Jakarta (Tanjung Priok) → Singapore,32,46.9,2.2,3746.66,5.9
+Hong Kong → Busan,51,47.1,1.9,3608.46,8.1
+Shenzhen → Phnom Penh (Sihanoukville),36,47.2,1.9,3499.88,9.6
+Singapore → Surabaya,36,47.2,1.6,3764.14,5.3
+Manila → Ho Chi Minh City,38,47.4,1.8,3909.85,5.5
+Hong Kong → Surabaya,38,47.4,1.6,4679.99,7.7
+Port Klang → Bangkok (Laem Chabang),40,47.5,1.6,2656.87,5.8
+Bangkok (Laem Chabang) → Shenzhen,40,47.5,1.9,4329.23,9.3
+Manila → Shenzhen,40,47.5,1.8,3286.45,10.8
+Shenzhen → Bangkok (Laem Chabang),40,47.5,2.3,3677.03,9.2
+Singapore → Shenzhen,42,47.6,1.6,3432.85,10.4
+Shanghai → Bangkok (Laem Chabang),46,47.8,1.7,3259.77,10.2
+Bangkok (Laem Chabang) → Surabaya,46,47.8,1.7,3377.94,5.4
+Shanghai → Ho Chi Minh City,48,47.9,1.7,3470.93,10.0
+Hong Kong → Yangon,48,47.9,2.1,3479.21,11.3
+Hong Kong → Singapore,29,48.3,1.4,3462.6,9.7
+Yokohama → Surabaya,29,48.3,1.4,4982.69,9.1
+Yokohama → Jakarta (Tanjung Priok),31,48.4,1.7,4443.99,8.4
+Hanoi (Hai Phong) → Bangkok (Laem Chabang),35,48.6,1.5,3034.37,5.4
+Port Klang → Hong Kong,37,48.6,2.2,3686.98,10.7
+Yangon → Singapore,35,48.6,1.6,2697.4,5.9
+Yangon → Surabaya,39,48.7,2.1,3016.62,5.1
+Manila → Port Klang,39,48.7,1.7,4539.33,4.9
+Yangon → Hong Kong,43,48.8,1.3,4109.75,9.4
+Yangon → Shanghai,40,50.0,1.8,3104.39,11.4
+Manila → Bangkok (Laem Chabang),34,50.0,2.0,3597.41,6.2
+Phnom Penh (Sihanoukville) → Busan,36,50.0,1.6,3341.87,9.6
+Ho Chi Minh City → Surabaya,26,50.0,1.5,3537.38,5.2
+Busan → Shenzhen,30,50.0,2.4,2876.79,8.2
+Yokohama → Shenzhen,44,50.0,1.9,2692.48,8.7
+Singapore → Manila,36,50.0,1.6,3808.65,4.5
+Surabaya → Singapore,26,50.0,1.5,3941.89,5.4
+Yokohama → Singapore,38,50.0,1.8,2699.31,10.8
+Yangon → Phnom Penh (Sihanoukville),45,51.1,1.9,3521.33,5.5
+Surabaya → Jakarta (Tanjung Priok),47,51.1,1.9,3369.45,5.7
+Manila → Hong Kong,47,51.1,2.1,2874.68,11.0
+Singapore → Shanghai,47,51.1,1.8,3548.0,10.2
+Shanghai → Hong Kong,43,51.2,1.8,3211.71,7.9
+Jakarta (Tanjung Priok) → Shenzhen,41,51.2,1.8,3405.83,10.2
+Ho Chi Minh City → Hong Kong,39,51.3,1.6,3658.98,8.9
+Shanghai → Phnom Penh (Sihanoukville),39,51.3,2.0,3512.05,10.3
+Yangon → Hanoi (Hai Phong),35,51.4,1.7,4136.09,5.2
+Hanoi (Hai Phong) → Jakarta (Tanjung Priok),35,51.4,1.3,3381.42,5.3
+Bangkok (Laem Chabang) → Manila,31,51.6,1.5,4475.12,5.0
+Surabaya → Yangon,31,51.6,1.4,3350.73,4.6
+Shanghai → Shenzhen,31,51.6,1.4,2918.2,7.3
+Yokohama → Busan,29,51.7,1.7,3609.01,7.6
+Yangon → Yokohama,29,51.7,2.0,4668.07,8.3
+Hanoi (Hai Phong) → Shenzhen,52,51.9,1.6,3916.68,9.2
+Yangon → Shenzhen,23,52.2,1.7,3759.3,9.5
+Bangkok (Laem Chabang) → Port Klang,44,52.3,1.3,4611.29,4.4
+Bangkok (Laem Chabang) → Singapore,42,52.4,1.6,3703.86,5.1
+Yokohama → Hong Kong,40,52.5,1.7,4406.85,6.3
+Port Klang → Singapore,40,52.5,1.7,3623.57,5.6
+Shanghai → Yangon,38,52.6,1.7,3072.47,9.4
+Singapore → Ho Chi Minh City,38,52.6,1.6,3255.28,5.8
+Shanghai → Singapore,36,52.8,1.9,3422.91,8.8
+Ho Chi Minh City → Yangon,34,52.9,1.5,2950.77,5.3
+Busan → Phnom Penh (Sihanoukville),34,52.9,1.9,3522.75,9.9
+Busan → Manila,32,53.1,1.3,4243.58,9.1
+Jakarta (Tanjung Priok) → Yokohama,32,53.1,1.6,4681.66,8.9
+Busan → Hong Kong,30,53.3,1.8,3857.08,7.1
+Hong Kong → Hanoi (Hai Phong),46,54.3,1.8,3557.2,10.4
+Shenzhen → Singapore,35,54.3,1.6,3339.88,9.5
+Bangkok (Laem Chabang) → Jakarta (Tanjung Priok),33,54.5,1.5,3459.58,5.2
+Phnom Penh (Sihanoukville) → Surabaya,44,54.5,1.9,3405.32,5.6
+Shanghai → Jakarta (Tanjung Priok),33,54.5,1.6,4415.23,8.5
+Port Klang → Yokohama,42,54.8,1.7,3607.98,9.6
+Hong Kong → Bangkok (Laem Chabang),51,54.9,1.3,3351.6,9.5
+Surabaya → Manila,40,55.0,1.2,3497.35,5.0
+Port Klang → Ho Chi Minh City,40,55.0,2.0,3658.6,5.6
+Busan → Yangon,49,55.1,1.9,4218.87,10.4
+Hong Kong → Yokohama,38,55.3,2.1,4061.01,8.2
+Yokohama → Ho Chi Minh City,36,55.6,1.7,4069.59,9.4
+Singapore → Yokohama,34,55.9,2.0,3709.04,8.6
+Phnom Penh (Sihanoukville) → Yangon,32,56.2,1.5,3716.33,5.5
+Manila → Shanghai,39,56.4,1.9,2684.18,10.8
+Surabaya → Busan,30,56.7,1.6,2628.76,10.4
+Hong Kong → Jakarta (Tanjung Priok),44,56.8,1.5,2595.31,11.3
+Singapore → Jakarta (Tanjung Priok),42,57.1,1.8,3376.19,5.0
+Jakarta (Tanjung Priok) → Phnom Penh (Sihanoukville),35,57.1,1.6,4015.25,5.0
+Jakarta (Tanjung Priok) → Shanghai,43,58.1,1.3,3978.99,9.7
+Singapore → Hong Kong,34,58.8,1.9,3092.22,10.1
+Port Klang → Yangon,39,59.0,1.7,3851.57,4.8
+Busan → Bangkok (Laem Chabang),32,59.4,1.4,4179.63,8.5
+Hanoi (Hai Phong) → Busan,32,59.4,1.4,2907.39,9.7
+Busan → Jakarta (Tanjung Priok),47,59.6,1.4,4064.82,8.8
+Phnom Penh (Sihanoukville) → Manila,30,60.0,1.1,4163.59,4.6
+Shenzhen → Yokohama,38,60.5,1.3,3457.01,7.3
+Hong Kong → Phnom Penh (Sihanoukville),56,60.7,1.6,3383.52,9.8
+Surabaya → Bangkok (Laem Chabang),44,61.4,1.4,4341.49,4.5
+Manila → Surabaya,37,62.2,1.2,3811.47,5.2
+Shanghai → Surabaya,41,63.4,1.2,3462.76,10.3
+Surabaya → Ho Chi Minh City,36,66.7,1.3,2962.46,5.4
+Hong Kong → Manila,37,70.3,0.7,2805.43,9.2
